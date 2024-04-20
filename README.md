@@ -6,8 +6,7 @@
 
 服务端玩家需要进行联机测试,联机测试的工具: ipv6test  ，更多帮助请查看:ipv6wow.cn
 
-下载地址：
-链接：https://pan.baidu.com/s/1IMfYX-yvxGiDzCsh6jZ00w?pwd=free 
+下载地址：链接：https://pan.baidu.com/s/1IMfYX-yvxGiDzCsh6jZ00w?pwd=free 
 提取码：free
 -------------------------------------------------------------------------------------------------
 
